@@ -1,5 +1,5 @@
-print(test)
+print(1)
 
-print(test2)
+print(2)
 
-print(test3)
+print(3)
